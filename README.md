@@ -19,7 +19,7 @@ From 2018 to 2024, I worked as a developer in the blockchain industry before gra
 - [DeGov](https://github.com/ringecosystem/degov) — An open-source operating layer for DAOs, built on OpenZeppelin Governor.
 - [DeGov Agent Skills](https://github.com/ringecosystem/degov-agent-skills) — A collection of agent skills for researching and auditing DAO proposals, as well as generating new proposals from user instructions.
 - [This Week in Obsidian](https://thisweekinobsidian.substack.com/) — A weekly newsletter covering the latest developments in the Obsidian community, published every Tuesday.
-- [TabSpan](https://chromewebstore.google.com/detail/fakbifeeblnopdhicpmhhmcdhmefphjp?utm_source=item-share-cb) — See, find, move, and manage tabs across every Chrome window from one unified side panel.
+- [Ztab](https://chromewebstore.google.com/detail/fakbifeeblnopdhicpmhhmcdhmefphjp?utm_source=item-share-cb) — See, find, move, and manage tabs across every Chrome window from one unified side panel.
 - [Little Swan](https://github.com/boundless-forest/little-swan) — A writing companion that helps turn rough thoughts into better prompts.
 - [Darwinia Chain](https://github.com/darwinia-network/darwinia) — A Polkadot parachain that has been running for more than five years.
 - [Frontier](https://github.com/polkadot-evm/frontier) — The Ethereum compatibility layer for Polkadot.
